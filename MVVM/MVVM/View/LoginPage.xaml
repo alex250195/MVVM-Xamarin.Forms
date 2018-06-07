@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MVVM.View.LoginPage">
+
+  <ContentPage.Content>
+    <StackLayout Padding="20" BackgroundColor="#FFFFFF">
+      <Label Text="Acesso" FontSize="20" Margin="0,50,0,30" HorizontalTextAlignment="Center"/>
+      <Entry Placeholder="Informe o Login..." x:Name="txtLogin" Text="{Binding Usuario.Login, Mode=TwoWay}"/>
+      <Entry Placeholder="Informe a Senha...." IsPassword="True" x:Name="txtSenha" Text="{Binding Usuario.Senha, Mode=TwoWay}"/>
+      <Button Text="Acessar" Command="{Binding LoginCommand}" IsEnabled="{Binding EnableLogin, Mode=TwoWay}"/>
+      <Button Text="Código Barra" Command="{Binding CodigoCommand}"/>
+
+      <Image Source="icon.png" x:Name="Image1">
+        <Image.GestureRecognizers>
+          <TapGestureRecognizer NumberOfTapsRequired="1" Command="{Binding MediaCommand}" CommandParameter="Image1"/>
+        </Image.GestureRecognizers>
+      </Image>
+      
+       <Button Text="Cadastrar" Command="{Binding CadastroCommand}" Margin="0,10,20,0"/>
+      <Label Text="{Binding Codigo, Mode=TwoWay}"/>
+    </StackLayout>
+  </ContentPage.Content>
+  
+</ContentPage>

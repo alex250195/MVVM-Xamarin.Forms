@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MVVM.Converters;assembly:MVVM"
+             x:Class="MVVM.View.ClientPage">
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:DateTimeToString x:Key="converter"/>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+  
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout>
+          <ListView ItemsSource="{Binding ClienteList}" SelectedItem="{Binding Cliente}" HeightRequest="100">
+            <ListView.ItemTemplate>
+              <DataTemplate>
+                <ViewCell>
+                  <Grid ColumnSpacing="2">
+                    <Grid.ColumnDefinitions>
+                      <ColumnDefinition Width="*" />
+                      <ColumnDefinition Width="*" />
+                      <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    
+                    <Label Grid.Column="0" Text="{Binding Nome}"/>
+                    <Label Grid.Column="1" Text="{Binding Cpf}"/>
+                    <Label Grid.Column="2" Text="{Binding DataNascimento, Mode=TwoWay, Converter={StaticResource converter}}"/>
+                  </Grid>
+                  
+                  <!--<StackLayout HorizontalOptions="FillAndExpand" Orientation="Horizontal">
+                    <Label Text="{Binding Nome}"/>
+                    <Label Text="{Binding Cpf}"/>
+                    <Label Text="{Binding DataNascimento, Mode=TwoWay, Converter={StaticResource converter}}"/>
+                  </StackLayout>-->
+                </ViewCell>
+              </DataTemplate>
+            </ListView.ItemTemplate>
+          </ListView>
+        
+        <Label Text="Cliente" Margin="0,50,0,30" HorizontalTextAlignment="Center"/>
+        <Entry Placeholder="Nome" Text="{Binding Cliente.Nome, Mode=TwoWay}"/>
+        <Entry Placeholder="CPF" Text="{Binding Cliente.Cpf, Mode=TwoWay}"/>
+        <Label Text="Data de Nascimento"/>
+        <DatePicker Date="{Binding Cliente.DataNascimento, Mode=TwoWay}"/>
+      
+        <Button Text="Cadastrar" Command="{Binding CadastrarCommand}"/>
+        <Button Text="Editar" Command="{Binding EditarCommand}"/>
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+</ContentPage>

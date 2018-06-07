@@ -1,0 +1,81 @@
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.MainPage.xaml.g.cs
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.App.xaml.g.cs
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Splat.dll
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.LoginPage.xaml.g.cs
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.CadastrarPage.xaml.g.cs
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.HomePage.xaml.g.cs
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll.mdb
+C:\Users\alexa\OneDrive\Documentos\Visual Studio 2015\Projects\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll.mdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Mono.Android.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Splat.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\SQLite-net.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\ZXing.Net.Mobile.Forms.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\zxing.portable.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\ZXingNetMobile.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Mono.Android.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\SQLite-net.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.App.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.LoginPage.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.CadastrarPage.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.HomePage.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.ClientPage.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.EditarClientePage.xaml.g.cs
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.pdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\obj\Debug\MVVM.dll.mdb
+C:\Users\alexa\OneDrive\3. Curso - Xamarin\Trabalhos\MVVM\MVVM\MVVM\bin\Debug\MVVM.dll.mdb
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.App.xaml.g.cs
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.LoginPage.xaml.g.cs
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.CadastrarPage.xaml.g.cs
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.HomePage.xaml.g.cs
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.ClientPage.xaml.g.cs
+T:\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.EditarClientePage.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.csprojResolveAssemblyReference.cache
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.App.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.LoginPage.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.CadastrarPage.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.HomePage.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.ClientPage.xaml.g.cs
+D:\Pessoal\Sistemas\Testes\MVVM\MVVM\MVVM\obj\Debug\MVVM.View.EditarClientePage.xaml.g.cs

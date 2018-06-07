@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MVVM.Converters;assembly:MVVM"
+             xmlns:render="clr-namespace:MVVM.Controls;assembly:MVVM"
+             x:Class="MVVM.View.CadastrarPage">
+  
+  <ContentPage.Resources>
+    <ResourceDictionary>
+      <local:AlterColor x:Key="converter"/>
+    </ResourceDictionary>
+  </ContentPage.Resources>
+
+  <ContentPage.Content>
+    <ScrollView>
+      <StackLayout Padding="20">
+        <Label Text="Cadastro" FontSize="20" HorizontalTextAlignment="Center" Margin="0, 20, 0, 20"/>
+
+        <Frame OutlineColor="Blue" VerticalOptions="CenterAndExpand" HorizontalOptions="Fill" HasShadow="True">
+          <StackLayout>
+            <Label Text="Dados de Acesso" Margin="0,0,0,10" HorizontalTextAlignment="Center"/>
+            <render:MyEntry Placeholder="Login" x:Name="login" Text="{Binding Usuario.Login, Mode=TwoWay}" />
+            <Entry Placeholder="Senha" IsPassword="True" x:Name="senha" Text="{Binding Usuario.Senha, Mode=TwoWay}" TextColor="{Binding Text, Converter={StaticResource converter}}" BindingContext="{x:Reference senha}" />
+          </StackLayout>
+        </Frame>
+
+        <Frame OutlineColor="Blue" VerticalOptions="CenterAndExpand" HorizontalOptions="Fill" HasShadow="True">
+          <StackLayout>
+            <Label Text="Dados Pessoais" Margin="0,0,0,10" HorizontalTextAlignment="Center"/>
+            <Label Text="Sexo"/>
+            <Picker x:Name="sexo">
+              <Picker.Items>
+                <x:String>Masculino</x:String>
+                <x:String>Feminino</x:String>
+              </Picker.Items>
+            </Picker>
+            <Label Text="Data de Aniversário"/>
+            <DatePicker/>
+          </StackLayout>
+        </Frame>
+
+        <Frame OutlineColor="Blue" HorizontalOptions="Fill" HasShadow="True">
+          <StackLayout>
+            <Label Text="Contato" Margin="0,0,0,10" HorizontalTextAlignment="Center"/>
+            <Entry Placeholder="Email" Keyboard="Email" x:Name="email"/>
+            <Entry Placeholder="Telefone" Keyboard="Telephone"/>
+          </StackLayout>
+        </Frame>
+
+        <Button Text="Cadastrar" x:Name="cadastrar" Margin="0,15,0,0" Command="{Binding CadastroCommand}"/>
+        <render:MyButton Text="Cancelar" x:Name="Cancelar"/>
+      </StackLayout>
+    </ScrollView>
+  </ContentPage.Content>
+  
+</ContentPage>
